@@ -14,7 +14,7 @@ const Checkout = () => {
         {/* left section */}
         <div>
           <img
-            src="/public/images/ad-1.png"
+            src="/images/ad-1.png"
             alt="ad-1"
             width={1020}
             height={250}
